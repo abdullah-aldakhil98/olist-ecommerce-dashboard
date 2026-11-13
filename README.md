@@ -5,6 +5,8 @@ The project covers data import, cleaning in Power Query, data modeling, DAX meas
 
 **Main question:** What drives sales and customer satisfaction, and where are the biggest opportunities to improve?
 
+**📥 Download:** [Power BI file (.pbix)](https://drive.google.com/file/d/11V8gL0yU7B2TIoIaTqZdcu4VXK1FHDk8/view?usp=sharing) · [PDF version](Olist_Ecommerce_Dashboard.pdf)
+
 ![Overview](Screenshots/01_Overview.png)
 
 ---
@@ -156,14 +158,13 @@ The pages are connected by a custom navigation bar, and the Year and State filte
 ## Repository Structure
 
 ```
-├── Olist_Ecommerce_Dashboard.pbix   # Power BI file
 ├── Olist_Ecommerce_Dashboard.pdf    # Static PDF export
 ├── Olist_Theme.json                 # Custom color theme
 ├── Screenshots/                     # Dashboard page images
 └── README.md
 ```
 
-The raw data is not included. Download it from Kaggle: *Brazilian E-Commerce Public Dataset by Olist*.
+The Power BI file is larger than GitHub's upload limit, so it is hosted on Google Drive (see the download link at the top). The raw data is not included. Download it from Kaggle: *Brazilian E-Commerce Public Dataset by Olist*.
 
 ---
 
