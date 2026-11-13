@@ -1,0 +1,106 @@
+{
+  "name": "Olist Navy Blue",
+  "dataColors": [
+    "#2878C8",
+    "#102C52",
+    "#7FB2E5",
+    "#64748B",
+    "#B9D3EE",
+    "#1B4F8A",
+    "#A3B1C2",
+    "#4A93D9"
+  ],
+  "foreground": "#102C52",
+  "foregroundNeutralSecondary": "#64748B",
+  "foregroundNeutralTertiary": "#94A3B8",
+  "background": "#FFFFFF",
+  "backgroundLight": "#EAF2FA",
+  "backgroundNeutral": "#CBD5E1",
+  "tableAccent": "#2878C8",
+  "good": "#2878C8",
+  "neutral": "#64748B",
+  "bad": "#D9534F",
+  "maximum": "#102C52",
+  "center": "#7FB2E5",
+  "minimum": "#EAF2FA",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 24,
+      "color": "#102C52"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#102C52"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#102C52"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#64748B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#EAF2FA" } },
+            "radius": 8
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#102C52" } },
+            "fontSize": 12
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#64748B" } },
+            "gridlineColor": { "solid": { "color": "#EAF2FA" } }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#64748B" } }
+          }
+        ],
+        "legend": [
+          {
+            "labelColor": { "solid": { "color": "#64748B" } }
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": { "solid": { "color": "#EAF2FA" } }
+          }
+        ]
+      }
+    }
+  }
+}
