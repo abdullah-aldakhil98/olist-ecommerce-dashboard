@@ -168,4 +168,4 @@ The Power BI file is larger than GitHub's upload limit, so it is hosted on Googl
 
 ---
 
-**Author:** Abdullah Aldakhil · [LinkedIn](https://www.linkedin.com/in/abdullah-aldakhil-3866a436a/)
+**Author:** Abdullah Aldakhil · [LinkedIn](https://www.linkedin.com/in/abdullah-aldakhil98/)
